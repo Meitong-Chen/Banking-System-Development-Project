@@ -1,0 +1,2 @@
+account    name    password    borrowable_amount    total_deposits    loan_interest_personal    loan_interest_enterprise
+1000    manager    123456    10000061.650000    312312521732.460022    0.050000    0.030000

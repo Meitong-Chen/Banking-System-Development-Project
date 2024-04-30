@@ -1,0 +1,4 @@
+account    name    password    withdrawable    category    loan_amount    loan_quota_left    net_value
+1001    Alice    112233    312312299447.579956    personal    0.000000    20000.000000    312312299447.579956
+1002    Naruto    654321    224456.230000    enterprise    1000.000000    49000.000000    223456.230000
+1003    fucker    123144    12313123.000000    personal    0.000000    20000.000000    12313123.000000
